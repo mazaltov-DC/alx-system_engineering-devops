@@ -1,1 +1,2 @@
-pwd
+#!/bin/bash /r
+wc -1 file
